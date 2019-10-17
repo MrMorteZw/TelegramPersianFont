@@ -12,7 +12,7 @@ Easy Change Telegram Desktop Font
 
 <b>How To Install Script </b>
 
-1 - git clone https://github.com/LinApps/TelegramPersianFont
+1 - git clone https://github.com/LinAcademyofficial//TelegramPersianFont
 <p>
 2 - cd TelegramPersianFont
 <p>
@@ -25,5 +25,5 @@ Easy Change Telegram Desktop Font
 &nbsp;
 &nbsp;
 <p>
-<b>Telegram :</b> LinApps
+<b>Telegram :</b> LinAcademy
 <p>
