@@ -26,8 +26,8 @@ sleep 2
 
 clear
 
-
-cp -r .fonts .fonts.conf ~/.local/share/
+cp -r .fonts .fonts.conf ~
+cp -r fonts ~/.local/share/
 
 echo -e "   "
 
